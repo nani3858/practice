@@ -5,8 +5,15 @@ Welcome to Angular Practice
 How to learn Angular
 Why we need Angular
 
+Project is loading
+need to wait for loading
+
 doing some editings in this project
 
 Thank you!
 
+
+Done my changes
+
 Final copy
+
