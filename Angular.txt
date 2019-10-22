@@ -4,3 +4,5 @@ Welcome to Angular Practice
 
 How to learn Angular
 Why we need Angular
+
+doing some editings in this project
